@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏢 Smart Society Management System
 
 [![Laravel Version](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
@@ -114,3 +115,7 @@ php artisan db:seed
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
+=======
+# SSMSPro-Smart-Society-Managment-System-
+SaaS Multi-Tenant Society Management System built on Laravel 12 &amp; Tailwind CSS. Includes 4 distinct user portals with Razorpay payments, QR-coded visitor passes, live gate security polling, dynamic theme styling, and automated PDF invoice generation.
+>>>>>>> b65a7f4474322bb83c91467cca87bbb713fcebc2
